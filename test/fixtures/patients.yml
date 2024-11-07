@@ -1,0 +1,21 @@
+# == Schema Information
+#
+# Table name: patients
+#
+#  id         :integer          not null, primary key
+#  birthdate  :date
+#  cpf        :string
+#  name       :string
+#  created_at :datetime         not null
+#  updated_at :datetime         not null
+#
+
+one:
+  name: MyString
+  cpf: MyString
+  birthdate: 2024-11-07
+
+two:
+  name: MyString
+  cpf: MyString
+  birthdate: 2024-11-07
