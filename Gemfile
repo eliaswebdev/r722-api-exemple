@@ -44,4 +44,4 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
 end
 
-gem "active_model_serializers", "~> 0.10.14"
+gem "active_model_serializers", "~> 0.10.15"
